@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="omnijaws_weather_custom_location_title">Lokasi</string>
+    <string name="omnijaws_settings_title">Sétingan</string>
+    <string name="omnijaws_city_unkown">Teu dipikanyaho</string>
+</resources>

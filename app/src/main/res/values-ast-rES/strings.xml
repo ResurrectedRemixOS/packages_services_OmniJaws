@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="omnijaws_activity_title">Clima</string>
+    <string name="omnijaws_category_general">Xeneral</string>
+    <string name="omnijaws_category_appearance">Aspeutu</string>
+    <string name="omnijaws_enable_title">Activar</string>
+    <string name="omnijaws_interval_1_hour">1 hora</string>
+    <string name="omnijaws_interval_6_hour">6 hores</string>
+    <string name="omnijaws_weather_last_update_never">Enxamás</string>
+    <string name="omnijaws_weather_custom_location_title">Llocalización</string>
+    <string name="omnijaws_theme_light">Claridá</string>
+    <string name="omnijaws_menu_title">Menú</string>
+    <string name="omnijaws_update_title">Anovar</string>
+    <string name="omnijaws_settings_title">Configuración</string>
+    <string name="omnijaws_temperature_low">Baxa</string>
+    <string name="omnijaws_temperature_high">Alta</string>
+    <string name="omnijaws_forecast_show_more">Amosar más</string>
+    <string name="omnijaws_forecast_show_less">Amosar menos</string>
+    <string name="omnijaws_forecast_today">Güei</string>
+    <string name="omnijaws_uv_level_low">Baxa</string>
+    <string name="omnijaws_uv_level_high">Alta</string>
+    <string name="omnijaws_uv_level_extreme">Estremu</string>
+    <string name="omnijaws_pressure_level_low">Baxa</string>
+    <string name="omnijaws_pressure_level_high">Alta</string>
+    <string name="omnijaws_city_unkown">Desconozse</string>
+    <string name="omnijaws_detail_header">Clima</string>
+    <string name="omnijaws_label_default">Clima</string>
+    <string name="omnijaws_color_theme_title">Estilu</string>
+    <string name="omnijaws_weather_3200">Nun ta disponible</string>
+</resources>

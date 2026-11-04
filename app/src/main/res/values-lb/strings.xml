@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="omnijaws_activity_title">Wieder</string>
+    <string name="omnijaws_weather_config_title">Serviceastellungen</string>
+    <string name="omnijaws_category_general">Allgemeng</string>
+    <string name="omnijaws_enable_title">Aktivéieren</string>
+    <string name="omnijaws_interval_1_hour">1 Stonn</string>
+    <string name="omnijaws_interval_6_hour">6 Stonnen</string>
+    <string name="omnijaws_interval_12_hour">12 Stonnen</string>
+    <string name="omnijaws_weather_last_update_never">Ni</string>
+    <string name="omnijaws_weather_custom_location_title">Standuert</string>
+    <string name="omnijaws_menu_title">Menü</string>
+    <string name="omnijaws_update_title">Aktualiséieren</string>
+    <string name="omnijaws_settings_title">Astellungen</string>
+    <string name="omnijaws_temperature_low">Niddreg</string>
+    <string name="omnijaws_temperature_high">Héich</string>
+    <string name="omnijaws_forecast_today">Haut</string>
+    <string name="omnijaws_uv_level_low">Niddreg</string>
+    <string name="omnijaws_uv_level_moderate">Moderat</string>
+    <string name="omnijaws_uv_level_high">Héich</string>
+    <string name="omnijaws_uv_level_extreme">Extrem</string>
+    <string name="omnijaws_visibility_level_good">Gutt</string>
+    <string name="omnijaws_visibility_level_moderate">Moderat</string>
+    <string name="omnijaws_visibility_level_poor">Schwaach</string>
+    <string name="omnijaws_pressure_level_low">Niddreg</string>
+    <string name="omnijaws_pressure_level_high">Héich</string>
+    <string name="omnijaws_city_unkown">Onbekannt</string>
+    <string name="omnijaws_detail_header">Wieder</string>
+    <string name="omnijaws_label_default">Wieder</string>
+    <string name="omnijaws_service_disabled">Service desaktivéiert</string>
+    <string name="omnijaws_color_theme_title">Design</string>
+    <string name="omnijaws_weather_20">Niwweleg</string>
+    <string name="omnijaws_weather_26">Wollekeg</string>
+    <string name="omnijaws_weather_33">Mëttel</string>
+    <string name="omnijaws_weather_34">Mëttel</string>
+    <string name="omnijaws_weather_3200">Net disponibel</string>
+</resources>

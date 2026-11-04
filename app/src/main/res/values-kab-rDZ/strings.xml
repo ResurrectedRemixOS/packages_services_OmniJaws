@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="omnijaws_activity_title">Tagnawit</string>
+    <string name="omnijaws_category_general">Amatu</string>
+    <string name="omnijaws_enable_title">Rmed</string>
+    <string name="omnijaws_interval_1_hour">1 asrag</string>
+    <string name="omnijaws_interval_2_hour">2 n isragen</string>
+    <string name="omnijaws_interval_4_hour">4 n isragen</string>
+    <string name="omnijaws_interval_6_hour">6 n isragen</string>
+    <string name="omnijaws_interval_12_hour">12 n isragen</string>
+    <string name="omnijaws_weather_last_update_never">Weṛǧin</string>
+    <string name="omnijaws_weather_custom_location_title">Adig</string>
+    <string name="omnijaws_theme_light">Aceɛlal</string>
+    <string name="omnijaws_menu_title">Umuɣ</string>
+    <string name="omnijaws_update_title">Lqem</string>
+    <string name="omnijaws_settings_title">Iɣewwaṛen</string>
+    <string name="omnijaws_temperature_low">Faible</string>
+    <string name="omnijaws_temperature_high">Haut</string>
+    <string name="omnijaws_forecast_show_more">Sken-ed ugar</string>
+    <string name="omnijaws_forecast_today">Ass-a</string>
+    <string name="omnijaws_uv_level_low">Faible</string>
+    <string name="omnijaws_uv_level_moderate">Sektem</string>
+    <string name="omnijaws_uv_level_high">Haut</string>
+    <string name="omnijaws_visibility_level_good">Igerrez</string>
+    <string name="omnijaws_visibility_level_moderate">Sektem</string>
+    <string name="omnijaws_visibility_level_poor">D igellil</string>
+    <string name="omnijaws_pressure_level_low">Faible</string>
+    <string name="omnijaws_pressure_level_high">Haut</string>
+    <string name="omnijaws_city_unkown">Arussin</string>
+    <string name="omnijaws_detail_header">Tagnawit</string>
+    <string name="omnijaws_label_default">Tagnawit</string>
+    <string name="omnijaws_color_theme_title">Asentel</string>
+    <string name="omnijaws_weather_20">Agu</string>
+    <string name="omnijaws_weather_33">Iḍ yeṣfan</string>
+    <string name="omnijaws_weather_34">Iḍ yeṣfan</string>
+    <string name="omnijaws_weather_3200">Ulac-it</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="omnijaws_interval_1_hour">1 horo</string>
+    <string name="omnijaws_interval_2_hour">2 horoj</string>
+    <string name="omnijaws_interval_6_hour">6 horoj</string>
+    <string name="omnijaws_interval_12_hour">12 horoj</string>
+    <string name="omnijaws_weather_last_update_never">Neniam</string>
+    <string name="omnijaws_weather_custom_location_title">Loko</string>
+    <string name="omnijaws_theme_light">Hela</string>
+    <string name="omnijaws_settings_title">Agordoj</string>
+    <string name="omnijaws_temperature_low">Preskaŭ malplena</string>
+    <string name="omnijaws_temperature_high">Alta</string>
+    <string name="omnijaws_forecast_today">Hodiaŭ</string>
+    <string name="omnijaws_uv_level_low">Preskaŭ malplena</string>
+    <string name="omnijaws_uv_level_high">Alta</string>
+    <string name="omnijaws_pressure_level_low">Preskaŭ malplena</string>
+    <string name="omnijaws_pressure_level_high">Alta</string>
+    <string name="omnijaws_city_unkown">Nekonata</string>
+    <string name="omnijaws_color_theme_title">Etoso</string>
+</resources>

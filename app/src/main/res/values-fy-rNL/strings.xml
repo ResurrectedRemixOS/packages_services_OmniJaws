@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="omnijaws_activity_title">Waar</string>
+    <string name="omnijaws_category_general">Algemien</string>
+    <string name="omnijaws_enable_title">Ynskeakelje</string>
+    <string name="omnijaws_interval_1_hour">1 oere</string>
+    <string name="omnijaws_weather_last_update_never">Nea</string>
+    <string name="omnijaws_weather_custom_location_title">Lokaasje</string>
+    <string name="omnijaws_settings_title">Ynstellingen</string>
+    <string name="omnijaws_temperature_low">Leech</string>
+    <string name="omnijaws_temperature_high">Heech</string>
+    <string name="omnijaws_forecast_today">Hjoed</string>
+    <string name="omnijaws_uv_level_low">Leech</string>
+    <string name="omnijaws_uv_level_high">Heech</string>
+    <string name="omnijaws_pressure_level_low">Leech</string>
+    <string name="omnijaws_pressure_level_high">Heech</string>
+    <string name="omnijaws_city_unkown">Unbekend</string>
+    <string name="omnijaws_detail_header">Waar</string>
+    <string name="omnijaws_label_default">Waar</string>
+</resources>
