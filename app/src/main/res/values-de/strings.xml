@@ -136,4 +136,10 @@
     <string name="omnijaws_weather_47">Örtlich gewittrige Schauer</string>
     <string name="omnijaws_weather_3200">"Nicht verfügbar"</string>
     <string name="omnijaws_hourly_now">Jetzt</string>
+    <string name="omnijaws_theme_dark">Dunkel</string>
+    <string name="omnijaws_detail_wind">Wind</string>
+    <string name="omnijaws_visibility_level_clear">Löschen</string>
+    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_trans_solid">Vollton</string>
+    <string name="omnijaws_weather_31">Löschen</string>
 </resources>

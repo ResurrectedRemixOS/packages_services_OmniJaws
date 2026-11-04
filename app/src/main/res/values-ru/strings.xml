@@ -144,4 +144,9 @@
     <string name="omnijaws_error_network">Не удалось подключиться к службе погоды</string>
     <string name="omnijaws_error_location">Ваше местоположение недоступно</string>
     <string name="omnijaws_error_disabled">Служба погоды отключена</string>
+    <string name="omnijaws_theme_dark">Тёмный</string>
+    <string name="omnijaws_visibility_level_clear">Очистить</string>
+    <string name="omnijaws_pressure_level_normal">Обычная</string>
+    <string name="omnijaws_trans_solid">Сплошной</string>
+    <string name="omnijaws_weather_31">Очистить</string>
 </resources>

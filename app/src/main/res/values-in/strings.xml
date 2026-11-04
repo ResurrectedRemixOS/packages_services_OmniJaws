@@ -136,4 +136,9 @@
     <string name="omnijaws_error_network">Gagal terhubung ke layanan cuaca</string>
     <string name="omnijaws_error_location">Lokasi tidak tersedia</string>
     <string name="omnijaws_error_disabled">Layanan cuaca dinonaktifkan</string>
+    <string name="omnijaws_theme_dark">Gelap</string>
+    <string name="omnijaws_visibility_level_clear">Hapus</string>
+    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_weather_31">Hapus</string>
 </resources>
