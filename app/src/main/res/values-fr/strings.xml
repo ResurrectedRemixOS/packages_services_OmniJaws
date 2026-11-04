@@ -141,4 +141,9 @@
     <string name="omnijaws_error_network">Impossible d\'atteindre le service météo</string>
     <string name="omnijaws_error_location">Votre localisation n\'est pas disponible</string>
     <string name="omnijaws_error_disabled">Le service météo est désactivé</string>
+    <string name="omnijaws_theme_dark">Sombre</string>
+    <string name="omnijaws_visibility_level_clear">Effacer</string>
+    <string name="omnijaws_pressure_level_normal">Normale</string>
+    <string name="omnijaws_trans_solid">Plein</string>
+    <string name="omnijaws_weather_31">Effacer</string>
 </resources>

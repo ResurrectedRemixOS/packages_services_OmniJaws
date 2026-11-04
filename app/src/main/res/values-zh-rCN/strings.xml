@@ -144,4 +144,9 @@
     <string name="omnijaws_error_network">无法连接天气服务</string>
     <string name="omnijaws_error_location">无法获取位置信息</string>
     <string name="omnijaws_error_disabled">天气服务已关闭</string>
+    <string name="omnijaws_theme_dark">深色</string>
+    <string name="omnijaws_visibility_level_clear">清除</string>
+    <string name="omnijaws_pressure_level_normal">正常</string>
+    <string name="omnijaws_trans_solid">纯色</string>
+    <string name="omnijaws_weather_31">清除</string>
 </resources>

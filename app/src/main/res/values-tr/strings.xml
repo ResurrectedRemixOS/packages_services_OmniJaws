@@ -139,4 +139,9 @@
     <string name="omnijaws_weather_47">Yerel gök gürültülü sağanak yağışlar</string>
     <string name="omnijaws_weather_3200">"Yok"</string>
     <string name="omnijaws_hourly_now">Şu ân</string>
+    <string name="omnijaws_theme_dark">Koyu</string>
+    <string name="omnijaws_visibility_level_clear">Temizle</string>
+    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_trans_solid">Düz renk</string>
+    <string name="omnijaws_weather_31">Temizle</string>
 </resources>
