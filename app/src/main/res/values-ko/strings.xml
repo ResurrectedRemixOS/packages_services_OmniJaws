@@ -139,4 +139,12 @@
     <string name="omnijaws_weather_47">국지성 뇌우 소나기</string>
     <string name="omnijaws_weather_3200">"사용할 수 없음"</string>
     <string name="omnijaws_hourly_now">현재</string>
+    <string name="omnijaws_theme_dark">어둡게</string>
+    <string name="omnijaws_visibility_level_clear">지우기</string>
+    <string name="omnijaws_pressure_level_normal">보통</string>
+    <string name="omnijaws_trans_solid">단색</string>
+    <string name="omnijaws_weather_31">지우기</string>
+    <string name="omnijaws_error_network">날씨 서비스에 연결할 수 없습니다</string>
+    <string name="omnijaws_error_location">위치 정보를 사용할 수 없습니다</string>
+    <string name="omnijaws_error_disabled">날씨 서비스가 꺼져 있습니다</string>
 </resources>

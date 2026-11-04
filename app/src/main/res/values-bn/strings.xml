@@ -134,4 +134,17 @@
     <string name="omnijaws_weather_46">বিক্ষিপ্ত তুষারপাত</string>
     <string name="omnijaws_weather_47">বিক্ষিপ্ত বজ্রঝড়সহ বৃষ্টি</string>
     <string name="omnijaws_weather_3200">"উপলভ্য নয়"</string>
+    <string name="omnijaws_activity_title">আবহাওয়া</string>
+    <string name="omnijaws_theme_dark">গাঢ়</string>
+    <string name="omnijaws_api_links_note"><![CDATA[API key নিন: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_visibility_level_clear">মুছুন</string>
+    <string name="omnijaws_pressure_level_normal">স্বাভাবিক</string>
+    <string name="omnijaws_detail_header">আবহাওয়া</string>
+    <string name="omnijaws_label_default">আবহাওয়া</string>
+    <string name="omnijaws_trans_solid">কঠিন</string>
+    <string name="omnijaws_weather_31">মুছুন</string>
+    <string name="omnijaws_hourly_now">এখন</string>
+    <string name="omnijaws_error_network">আবহাওয়া পরিষেবায় পৌঁছানো যায়নি</string>
+    <string name="omnijaws_error_location">আপনার অবস্থান পাওয়া যাচ্ছে না</string>
+    <string name="omnijaws_error_disabled">আবহাওয়া পরিষেবা বন্ধ আছে</string>
 </resources>

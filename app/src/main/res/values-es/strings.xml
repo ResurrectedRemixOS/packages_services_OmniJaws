@@ -145,4 +145,6 @@
     <string name="omnijaws_pressure_level_normal">Normal</string>
     <string name="omnijaws_trans_solid">Sólido</string>
     <string name="omnijaws_weather_31">Borrar</string>
+    <string name="omnijaws_unit_imperial">Imperial (°F)</string>
+    <string name="omnijaws_weather_0">Tornado</string>
 </resources>

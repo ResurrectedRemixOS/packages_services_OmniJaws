@@ -137,4 +137,13 @@
     <string name="omnijaws_error_network">Nu s-a putut ajunge la serviciul meteo</string>
     <string name="omnijaws_error_location">Locația dvs. nu este disponibilă</string>
     <string name="omnijaws_error_disabled">Serviciul meteo este oprit</string>
+    <string name="omnijaws_category_general">General</string>
+    <string name="omnijaws_unit_metric">Metric (°C)</string>
+    <string name="omnijaws_theme_dark">Întunecat</string>
+    <string name="omnijaws_visibility_level_clear">Golește</string>
+    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_trans_semi">Semitransparent</string>
+    <string name="omnijaws_trans_full">Transparent</string>
+    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_weather_31">Golește</string>
 </resources>

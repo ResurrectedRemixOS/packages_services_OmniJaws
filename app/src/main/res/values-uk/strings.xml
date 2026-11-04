@@ -139,4 +139,12 @@
     <string name="omnijaws_weather_47">Місцями зливи з грозами</string>
     <string name="omnijaws_weather_3200">"Недоступно"</string>
     <string name="omnijaws_hourly_now">Зараз</string>
+    <string name="omnijaws_theme_dark">Темний</string>
+    <string name="omnijaws_visibility_level_clear">Очистити</string>
+    <string name="omnijaws_pressure_level_normal">Звичайний</string>
+    <string name="omnijaws_trans_solid">Суцільний</string>
+    <string name="omnijaws_weather_31">Очистити</string>
+    <string name="omnijaws_error_network">Не вдалося зв\'язатися зі службою погоди</string>
+    <string name="omnijaws_error_location">Ваше місцезнаходження недоступне</string>
+    <string name="omnijaws_error_disabled">Службу погоди вимкнено</string>
 </resources>

@@ -136,4 +136,16 @@
     <string name="omnijaws_weather_46">زخات ثلجية</string>
     <string name="omnijaws_weather_47">زخات مطر رعدية معزولة</string>
     <string name="omnijaws_weather_3200">"غير متاح"</string>
+    <string name="omnijaws_theme_system">اتباع النظام</string>
+    <string name="omnijaws_theme_dark">داكن</string>
+    <string name="omnijaws_api_key_note">تحتاج Pirate Weather إلى مفتاح واجهة برمجة تطبيقات ليعمل، ويُنصح بإدخال مفتاح OWM مخصص لـ OpenWeatherMap. اضغط على حقل \"وقت آخر تحديث\" لفرض التحديث واختبار مفاتيحك</string>
+    <string name="omnijaws_api_links_note"><![CDATA[احصل على مفاتيح واجهة البرمجة: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_visibility_level_clear">مسح</string>
+    <string name="omnijaws_pressure_level_normal">عادي</string>
+    <string name="omnijaws_trans_solid">صلب</string>
+    <string name="omnijaws_weather_31">مسح</string>
+    <string name="omnijaws_hourly_now">الآن</string>
+    <string name="omnijaws_error_network">تعذّر الوصول إلى خدمة الطقس</string>
+    <string name="omnijaws_error_location">الموقع غير متاح</string>
+    <string name="omnijaws_error_disabled">خدمة الطقس متوقفة</string>
 </resources>

@@ -141,4 +141,11 @@
     <string name="omnijaws_pressure_level_normal">Normal</string>
     <string name="omnijaws_trans_solid">Solid</string>
     <string name="omnijaws_weather_31">Hapus</string>
+    <string name="omnijaws_units_title">Satuan</string>
+    <string name="omnijaws_unit_imperial">Imperial (°F)</string>
+    <string name="omnijaws_theme_system">Ikuti sistem</string>
+    <string name="omnijaws_api_key_note">Pirate Weather memerlukan kunci API agar berfungsi, dan kunci OWM kustom disarankan untuk OpenWeatherMap. Tekan kolom \"Waktu pembaruan terakhir\" untuk memaksa pembaruan dan menguji kunci Anda</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Dapatkan kunci API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_menu_title">Menu</string>
+    <string name="omnijaws_update_title">Perbarui</string>
 </resources>

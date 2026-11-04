@@ -140,4 +140,12 @@
     <string name="omnijaws_error_network">Az időjárás-szolgáltatás nem elérhető</string>
     <string name="omnijaws_error_location">A tartózkodási helye nem elérhető</string>
     <string name="omnijaws_error_disabled">Az időjárás-szolgáltatás ki van kapcsolva</string>
+    <string name="omnijaws_theme_system">Rendszer szerint</string>
+    <string name="omnijaws_theme_dark">Sötét</string>
+    <string name="omnijaws_api_key_note">A Pirate Weather működéséhez API-kulcs szükséges, az OpenWeatherMaphoz pedig egyéni OWM-kulcs ajánlott. Az összes kulcs teszteléséhez és a frissítés kényszerítéséhez nyomd meg az „Utolsó frissítés ideje” mezőt</string>
+    <string name="omnijaws_api_links_note"><![CDATA[API-kulcsok beszerzése: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_visibility_level_clear">Törlés</string>
+    <string name="omnijaws_pressure_level_normal">Normál</string>
+    <string name="omnijaws_trans_solid">Tömör</string>
+    <string name="omnijaws_weather_31">Törlés</string>
 </resources>

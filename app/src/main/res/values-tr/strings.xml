@@ -144,4 +144,7 @@
     <string name="omnijaws_pressure_level_normal">Normal</string>
     <string name="omnijaws_trans_solid">Düz renk</string>
     <string name="omnijaws_weather_31">Temizle</string>
+    <string name="omnijaws_error_network">Hava durumu servisine ulaşılamadı</string>
+    <string name="omnijaws_error_location">Konumunuz kullanılamıyor</string>
+    <string name="omnijaws_error_disabled">Hava durumu servisi kapalı</string>
 </resources>

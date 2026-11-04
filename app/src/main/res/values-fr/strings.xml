@@ -146,4 +146,7 @@
     <string name="omnijaws_pressure_level_normal">Normale</string>
     <string name="omnijaws_trans_solid">Plein</string>
     <string name="omnijaws_weather_31">Effacer</string>
+    <string name="omnijaws_menu_title">Menu</string>
+    <string name="omnijaws_trans_semi">Semi-transparent</string>
+    <string name="omnijaws_trans_full">Transparent</string>
 </resources>

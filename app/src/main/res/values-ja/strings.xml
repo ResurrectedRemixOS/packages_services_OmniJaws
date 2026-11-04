@@ -144,4 +144,9 @@
     <string name="omnijaws_error_network">天気サービスに接続できません</string>
     <string name="omnijaws_error_location">現在地は利用できません</string>
     <string name="omnijaws_error_disabled">天気サービスがオフになっています</string>
+    <string name="omnijaws_theme_dark">ダーク</string>
+    <string name="omnijaws_visibility_level_clear">クリア</string>
+    <string name="omnijaws_pressure_level_normal">標準</string>
+    <string name="omnijaws_trans_solid">ソリッド</string>
+    <string name="omnijaws_weather_31">クリア</string>
 </resources>

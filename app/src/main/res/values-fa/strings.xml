@@ -138,4 +138,13 @@
     <string name="omnijaws_weather_46">بارش برف</string>
     <string name="omnijaws_weather_47">باران و رعد و برق منطقه ای</string>
     <string name="omnijaws_weather_3200">"دردسترس نیست"</string>
+    <string name="omnijaws_theme_dark">تیره</string>
+    <string name="omnijaws_visibility_level_clear">پاک کردن</string>
+    <string name="omnijaws_pressure_level_normal">عادی</string>
+    <string name="omnijaws_trans_solid">توپر</string>
+    <string name="omnijaws_weather_31">پاک کردن</string>
+    <string name="omnijaws_hourly_now">اکنون</string>
+    <string name="omnijaws_error_network">به سرویس آب‌وهوا وصل نشد</string>
+    <string name="omnijaws_error_location">مکان شما در دسترس نیست</string>
+    <string name="omnijaws_error_disabled">سرویس آب‌وهوا خاموش است</string>
 </resources>

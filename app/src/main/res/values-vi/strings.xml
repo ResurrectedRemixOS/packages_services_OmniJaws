@@ -142,4 +142,10 @@
     <string name="omnijaws_error_network">Không thể liên lạc được với dịch vụ thời tiết</string>
     <string name="omnijaws_error_location">Vị trí của bạn không khả dụng</string>
     <string name="omnijaws_error_disabled">Dịch vụ dự báo thời tiết đã bị tắt</string>
+    <string name="omnijaws_theme_dark">Tối</string>
+    <string name="omnijaws_menu_title">Menu</string>
+    <string name="omnijaws_visibility_level_clear">Xoá</string>
+    <string name="omnijaws_pressure_level_normal">Thường</string>
+    <string name="omnijaws_trans_solid">Đặc</string>
+    <string name="omnijaws_weather_31">Xoá</string>
 </resources>

@@ -141,4 +141,11 @@
     <string name="omnijaws_error_network">Nie udało się połączyć z usługą pogody</string>
     <string name="omnijaws_error_location">Twoja lokalizacja nie jest dostępna</string>
     <string name="omnijaws_error_disabled">Usługa pogodowa jest wyłączona</string>
+    <string name="omnijaws_theme_dark">Ciemny</string>
+    <string name="omnijaws_menu_title">Menu</string>
+    <string name="omnijaws_visibility_level_clear">Wyczyść</string>
+    <string name="omnijaws_pressure_level_normal">Normalny</string>
+    <string name="omnijaws_trans_solid">Pełny</string>
+    <string name="omnijaws_weather_0">Tornado</string>
+    <string name="omnijaws_weather_31">Wyczyść</string>
 </resources>

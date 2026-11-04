@@ -142,4 +142,10 @@
     <string name="omnijaws_pressure_level_normal">Normal</string>
     <string name="omnijaws_trans_solid">Vollton</string>
     <string name="omnijaws_weather_31">Löschen</string>
+    <string name="omnijaws_unit_imperial">Imperial (°F)</string>
+    <string name="omnijaws_trans_full">Transparent</string>
+    <string name="omnijaws_weather_0">Tornado</string>
+    <string name="omnijaws_error_network">Wetterdienst konnte nicht erreicht werden</string>
+    <string name="omnijaws_error_location">Dein Standort ist nicht verfügbar</string>
+    <string name="omnijaws_error_disabled">Der Wetterdienst ist ausgeschaltet</string>
 </resources>
