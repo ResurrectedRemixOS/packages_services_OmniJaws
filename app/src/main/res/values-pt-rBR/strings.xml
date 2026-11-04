@@ -74,4 +74,10 @@
     <string name="omnijaws_error_network">Não foi possível acessar o serviço meteorológico</string>
     <string name="omnijaws_error_location">Sua localização não está disponível</string>
     <string name="omnijaws_error_disabled">O serviço meteorológico está desativado</string>
+    <string name="omnijaws_theme_dark">Escuro</string>
+    <string name="omnijaws_detail_wind">Vento</string>
+    <string name="omnijaws_visibility_level_clear">Limpar</string>
+    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_trans_solid">Sólido</string>
+    <string name="omnijaws_weather_31">Limpar</string>
 </resources>

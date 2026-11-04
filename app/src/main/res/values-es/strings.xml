@@ -139,4 +139,10 @@
     <string name="omnijaws_error_network">No se pudo contactar con el servicio del clima</string>
     <string name="omnijaws_error_location">Su ubicación no está disponible</string>
     <string name="omnijaws_error_disabled">El servicio del clima está desactivado</string>
+    <string name="omnijaws_category_general">General</string>
+    <string name="omnijaws_theme_dark">Oscuro</string>
+    <string name="omnijaws_visibility_level_clear">Borrar</string>
+    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_trans_solid">Sólido</string>
+    <string name="omnijaws_weather_31">Borrar</string>
 </resources>
